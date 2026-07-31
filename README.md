@@ -5,14 +5,16 @@
 This project analyzes retirement planning behaviour using survey data.
 
 ## Tools Used
--SPSS
--Microsoft Excel
 
+- SPSS
+- Microsoft Excel
+  
 ## Statistical Techniques
--Descriptive Statistics
--Correlation Analysis
--Regression Analysis
--Reliability Analysis (Cronbach's Alpha)
+
+- Descriptive Statistics
+- Correlation Analysis
+- Regression Analysis
+- Reliability Analysis (Cronbach's Alpha)
 
 ## Outcome
 
